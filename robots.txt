@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://seongwoo.github.io/sitemap.xml
+Sitemap: https://seongwoolimkr.github.io/sitemap.xml
